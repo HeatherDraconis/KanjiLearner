@@ -1,0 +1,2068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress LanguageDetectionInspection -->
+<resources>
+    <string-array name="kyoiku_kanji_first_grade">
+        <item >一* *イチ / イツ*ひと / ひとつ*one</item>
+        <item >二*from 一 (one)*ニ / ジ*ふた / ふたつ / ふたたび*two</item>
+        <item >三* *サン / ゾウ*み / みつ /みっつ*three</item>
+        <item >四*from 囗 (box / enclosure) and 儿 (legs)*シ*よ / よつ / よっつ / よん*four</item>
+        <item >五* *ゴ *いつ / いつつ*five</item>
+        <item >六*from 亠 (lid) and ハ [八] (eight)*ロク / リク*む / むつ / むっつ / むい*six</item>
+        <item >七* *シチ*なな / ななつ / なの*seven</item>
+        <item >八* *ハチ*や / やつ /やっつ / よう*eight</item>
+        <item >九* *ク / キュウ*ここの / ここのつ *nine</item>
+        <item >十*from 一 (one) and 丨 (stick)*ジュウ / ジッ / ジュッ*とお / と*ten</item>
+        <item >百*from 一 (one) and  白 (white)*ヒャク /  ビャク*もも*hundred</item>
+        <item >千*from ノ [乃] (whereupon / splitting away from) and 十 (ten)*セン*ち*thousand</item>
+        <item >上* *ジョウ / ショウ / シャン*うえ / かみ / うわ- / あげる / あがる / のぼる / のぼせる / のぼす*top / above</item>
+        <item >下* *カ / ゲ*した / しも / もと / さげる / さがる / くだる / くだす / くださる / おろす / おりる*bottom / below</item>
+        <item >左*from 𠂇 [十] (ten) and 工 (work)*サ / シャ*ひだり*left</item>
+        <item >右*from 𠂇 [十] (ten) and 口 (mouth)*ウ / ユウ*みぎ / あき / すけ*right</item>
+        <item >中*from 口 (mouth) and 丨 (stick)*チュウ / ジュウ*なか / うち / あたる*inside / middle</item>
+        <item >大*from 一 (one) and 人 (person)*ダイ / タイ* おおきい / おおいに / おお-*big</item>
+        <item >小*from 亅 (hook) and ハ [八] (eight)*ショウ*こ- / お- / ちいさい / さ-*small</item>
+        <item >月* *ガツ / ゲツ*つき*month / moon</item>
+        <item >日* *ニチ / ジツ*ひ / -か / -び*day / sun</item>
+        <item >年*from 𠂉 [人] (person) and ヰ (wheel around)*ネン*とし*year</item>
+        <item >早*from 日 (sun / day) and 十 (ten)*ソウ / サッ*はやい / はやまる / はやめる / はや / はや- / さ-*early</item>
+        <item >木*from 大 (big) and 丨 (stick)*モク / ボク*き / こ-*tree</item>
+        <item >林*from 木 (tree)*リン*はやし*woods</item>
+        <item >山* *サン / セン*やま*mountain</item>
+        <item >川*from ノ [乃] (whereupon / splitting away from) and 丨 (stick)*セン*かわ*river</item>
+        <item >土* *ド / ト*つち*soil</item>
+        <item >空*from 穴 (hole) and 工 (work) *クウ*から / あく / あける / そら*sky / empty</item>
+        <item >田* *デン*た*rice field</item>
+        <item >天*from 一 (one) and 大 (big)*テン*あめ / あま- / あまつ*heaven / sky</item>
+        <item >生*from 𠂉 [人] (person) and 土 (soil)*セイ / ショウ*なま / いかす / いきる / いける /うまれる / うむ / き / おう / はえる / はやす*living / birth / raw</item>
+        <item >花*from 䒑 [艸] (grass) and 化 (change)*カ / ケ*はな*flower</item>
+        <item >草*from 䒑 [艸] (grass) and 早 (early)*ソウ*くさ / -ぐさ*grass</item>
+        <item >虫*from 中 (middle), 一 (one) and 丶 (dot)*チュウ / キ*むし*insect</item>
+        <item >犬*from 大 (big) and 丶 (dot)*ケン*いぬ*dog</item>
+        <item >人* *ジン / ニン*ひと / -り / -と*person</item>
+        <item >名*from 夕 (night) and 口 (mouth)*メイ / ミョウ*な*name</item>
+        <item >女* *ジョ / ニョ / ニョウ*おんな / め*female</item>
+        <item >男*from 田 (rice field) and 力 (effort)*ダン / ナン*おとこ / お*male</item>
+        <item >子* *シ / ス / ツ*こ / ね*child</item>
+        <item >目* *ボク / モク*ま- / め*eye</item>
+        <item >耳* *ジ*みみ*ear</item>
+        <item >口* *コウ / ク*くち*mouth</item>
+        <item >手* *シュ / ズ*て / た-*hand</item>
+        <item >足* *ソク*あし / たす / たる / たりる*foot / suffice</item>
+        <item >見*from 目 (eye) and 儿 (legs)*ケン*みる / みえる / みせる*see</item>
+        <item >音*from 立 (stand) and 日 (sun / day)*オン / イン*おと / ね / -ノン*sound</item>
+        <item >力* *リョク / リキ / リイ*ちから*power</item>
+        <item >気*from 𠂉 [人] (person), 一 (one), ⺄ [乙] (second) and 㐅 [乂] (crossed swords)*キ / ケ*いき*spirit / air</item>
+        <item >円* *エン*まるい / まる / まど / まどか / まろやか*yen / circle</item>
+        <item >入* *ニュウ / ジュ*いる / はいる / いれる / -いり / -いれ*enter</item>
+        <item >出* *シュツ / スイ*でる /  だす / -で / いでる / いだす*exit</item>
+        <item >立*from 亠 (lid) and 䒑 [艸] (grass)*リツ / リュウ / リットル*たつ / たてる / たち- / たて- / たて- / -たて / -だて / -だてる*stand up</item>
+        <item >休*from 亻[人] (person) and 木 (tree) *キュウ*やすむ / やすまる / やすめる*rest</item>
+        <item >先*from ⺧ (whereupon by the ground) and 儿 (legs)*セン*さき / まず*previous</item>
+        <item >夕* *セキ*ゆう*evening</item>
+        <item >本*from 木 (tree) and 一 (one)*ホン*もと*book</item>
+        <item >文* *ブン / モン*ふみ / あや*literature</item>
+        <item >字*from 宀 (roof) and 子 (child)*ジ*あざ / あざな / -な*character</item>
+        <item >学*from 龸 (classroom) and 子 (child) *ガク*まなぶ*study</item>
+        <item >校*from 木 (tree) and 交 (mix) *コウ / キョウ*めん*school</item>
+        <item >村*from 木 (tree) and 寸 (inch)*ソン*むら*village</item>
+        <item >町*from 田 (rice field) and 丁 (block)*チョウ*まち*town</item>
+        <item >森*from 木 (tree) and 林 (wood)*シン*もり*forest</item>
+        <item >正*from 一 (one) and 止 (stop)*セイ / ショウ*ただしい / ただす / まさ / まさに*correct</item>
+        <item >水* *スイ*みず*water</item>
+        <item >火*from 丷 [八] (eight) and 人 (person)*カ*ひ / ほ- / -び*fire</item>
+        <item >玉*from 王 (king) and 丶 (dot)*ギョク*たま / -だま*jewel / ball</item>
+        <item >王*from 一 (one) and 土 (soil)*オウ / -ノウ*おお / おおきみ / わ*king</item>
+        <item >石*from 丆 (whereupon one) and 口 (mouth) *セキ / シャク / コク*いし*stone</item>
+        <item >竹* *チク*たけ*bamboo</item>
+        <item >糸* *シ*いと*thread</item>
+        <item >貝*from 目 (eye) and ハ [八] (eight)*バイ*かい*shellfish</item>
+        <item >車* *シャ*くるま*vehicle</item>
+        <item >金*from 𠆢 [人] (person), 丷 [八] (eight) and 王 (king) *キン / コン*かね / かな- / -がね*gold / money</item>
+        <item >雨* *ウ*あめ / あま- / -さめ*rain</item>
+        <item >赤*from 土 (soil), 小 (small) and 丿 [乃] (whereupon / splitting away from)*セキ / シャク*あか / あかい / あからむ / あからめる / あか-*red</item>
+        <item >青*from 龶 [主] (master) and ⺝ [月] (month / moon) *セイ / ショウ*あお- / あおい / あお*blue</item>
+        <item >白*from ノ [乃] (whereupon/ splitting away from) and 日 (sun / day)*ハク / ビャク*しろい / しろ / しら-*white</item>
+    </string-array>
+
+    <string-array name="kyoiku_kanji_second_grade">
+        <item >数* * * *number / count</item>
+        <item >多* * * *many / much</item>
+        <item >少* * * *a few / a little</item>
+        <item >万* * * *ten thousand</item>
+        <item >半* * * *half</item>
+        <item >形* * * *shape</item>
+        <item >太* * * *thick</item>
+        <item >細* * * *thin</item>
+        <item >広* * * *wide</item>
+        <item >長* * * *long / leader</item>
+        <item >点* * * *point</item>
+        <item >丸* * * *circle</item>
+        <item >交* * * *intersect</item>
+        <item >光* * * *light</item>
+        <item >角* * * *corner / horn</item>
+        <item >計* * * *measure</item>
+        <item >直* * * *straight / fix</item>
+        <item >線* * * *line</item>
+        <item >矢* * * *arrow</item>
+        <item >弱* * * *weak</item>
+        <item >強* * * *strong</item>
+        <item >高* * * *high</item>
+        <item >同* * * *same</item>
+        <item >親* * * *parent</item>
+        <item >母* * * *mother</item>
+        <item >父* * * *father</item>
+        <item >姉* * * *older sister</item>
+        <item >兄* * * *older brother</item>
+        <item >弟* * * *younger brother</item>
+        <item >妹* * * *younger sister</item>
+        <item >自* * * *oneself</item>
+        <item >友* * * *friend</item>
+        <item >体* * * *body</item>
+        <item >毛* * * *hair</item>
+        <item >頭* * * *head</item>
+        <item >顔* * * *face</item>
+        <item >首* * * *neck</item>
+        <item >心* * * *heart</item>
+        <item >時* * * *time</item>
+        <item >曜* * * *day of the week</item>
+        <item >朝* * * *morning</item>
+        <item >昼* * * *daytime</item>
+        <item >夜* * * *night</item>
+        <item >分* * * *minute / understanding</item>
+        <item >週* * * *week</item>
+        <item >春* * * *spring</item>
+        <item >夏* * * *summer</item>
+        <item >秋* * * *autumn</item>
+        <item >冬* * * *winter</item>
+        <item >今* * * *now</item>
+        <item >新* * * *new</item>
+        <item >古* * * *old</item>
+        <item >間* * * *interval</item>
+        <item >方* * * *direction</item>
+        <item >北* * * *north</item>
+        <item >南* * * *south</item>
+        <item >東* * * *east</item>
+        <item >西* * * *west</item>
+        <item >遠* * * *far</item>
+        <item >近* * * *near</item>
+        <item >前* * * *before</item>
+        <item >後* * * *after</item>
+        <item >内* * * *inside</item>
+        <item >外* * * *outside</item>
+        <item >場* * * *place</item>
+        <item >地* * * *ground</item>
+        <item >国* * * *country</item>
+        <item >園* * * *garden</item>
+        <item >谷* * * *valley</item>
+        <item >野* * * *field</item>
+        <item >原* * * *meadow / plain</item>
+        <item >里* * * *hometown</item>
+        <item >市* * * *city</item>
+        <item >京* * * *capital</item>
+        <item >風* * * *wind / -style</item>
+        <item >雪* * * *snow</item>
+        <item >雲* * * *cloud</item>
+        <item >池* * * *pond</item>
+        <item >海* * * *sea</item>
+        <item >岩* * * *rock</item>
+        <item >星* * * *star</item>
+        <item >室* * * *room</item>
+        <item >戸* * * *door</item>
+        <item >家* * * *house</item>
+        <item >寺* * * *Buddhist temple</item>
+        <item >通* * * *pass through / commute</item>
+        <item >門* * * *gates</item>
+        <item >道* * * *road</item>
+        <item >話* * * *talk</item>
+        <item >言* * * *say</item>
+        <item >答* * * *answer</item>
+        <item >声* * * *voice</item>
+        <item >聞* * * *hear / listen / ask</item>
+        <item >語* * * *language</item>
+        <item >読* * * *read</item>
+        <item >書* * * *write</item>
+        <item >記* * * *record</item>
+        <item >紙* * * *paper</item>
+        <item >画* * * *brush stroke</item>
+        <item >絵* * * *picture</item>
+        <item >図* * * *drawing</item>
+        <item >工* * * *craft</item>
+        <item >教* * * *teach</item>
+        <item >晴* * * *clear</item>
+        <item >思* * * *think</item>
+        <item >考* * * *consider</item>
+        <item >知* * * *know</item>
+        <item >才* * * *age / ability</item>
+        <item >理* * * *reason</item>
+        <item >算* * * *calculate</item>
+        <item >作* * * *make</item>
+        <item >元* * * *origin</item>
+        <item >食* * * *eat</item>
+        <item >肉* * * *meat</item>
+        <item >馬* * * *horse</item>
+        <item >牛* * * *cow</item>
+        <item >魚* * * *fish</item>
+        <item >鳥* * * *bird</item>
+        <item >羽* * * *feather</item>
+        <item >鳴* * * *chirp</item>
+        <item >麦* * * *wheat</item>
+        <item >米* * * *rice</item>
+        <item >茶* * * *tea</item>
+        <item >色* * * *colour</item>
+        <item >黄* * * *yellow</item>
+        <item >黒* * * *black</item>
+        <item >来* * * *come</item>
+        <item >行* * * *go</item>
+        <item >帰* * * *return</item>
+        <item >歩* * * *walk</item>
+        <item >走* * * *run</item>
+        <item >止* * * *stop</item>
+        <item >活* * * *active</item>
+        <item >店* * * *store</item>
+        <item >買* * * *buy</item>
+        <item >売* * * *sell</item>
+        <item >午* * * *noon</item>
+        <item >汽* * * *steam</item>
+        <item >弓* * * *bow</item>
+        <item >回* * * *number of times / revolve</item>
+        <item >会* * * *meet</item>
+        <item >組* * * *team</item>
+        <item >船* * * *ship</item>
+        <item >明* * * *bright</item>
+        <item >社* * * *company</item>
+        <item >切* * * *cut</item>
+        <item >電* * * *electricity</item>
+        <item >毎* * * *every</item>
+        <item >合* * * *fit</item>
+        <item >当* * * *this / hit</item>
+        <item >台* * * *pedestal</item>
+        <item >楽* * * *music / pleasure</item>
+        <item >公* * * *public</item>
+        <item >引* * * *pull</item>
+        <item >科* * * *section / grade</item>
+        <item >歌* * * *song</item>
+        <item >刀* * * *sword</item>
+        <item >番* * * *number</item>
+        <item >用* * * *use</item>
+        <item >何* * * *what</item>
+    </string-array>
+
+    <string-array name="kyoiku_kanji_third_grade">
+        <item >丁* * * *street / district</item>
+        <item >世* * * *generation</item>
+        <item >両* * * *both</item>
+        <item >主* * * *master / main</item>
+        <item >乗* * * *ride</item>
+        <item >予* * * *beforehand</item>
+        <item >事* * * *intangible thing</item>
+        <item >仕* * * *serve</item>
+        <item >他* * * *other</item>
+        <item >代* * * *era / substitute</item>
+        <item >住* * * *dwell</item>
+        <item >使* * * *use</item>
+        <item >係* * * *person in charge</item>
+        <item >倍* * * *double</item>
+        <item >全* * * *whole</item>
+        <item >具* * * *tool</item>
+        <item >写* * * *copy</item>
+        <item >列* * * *row</item>
+        <item >助* * * *help</item>
+        <item >勉* * * *diligence</item>
+        <item >動* * * *move</item>
+        <item >勝* * * *win</item>
+        <item >化* * * *change</item>
+        <item >区* * * *district</item>
+        <item >医* * * *doctor</item>
+        <item >去* * * *leave</item>
+        <item >反* * * *anti-</item>
+        <item >取* * * *take</item>
+        <item >受* * * *receive</item>
+        <item >号* * * *number</item>
+        <item >向* * * *face</item>
+        <item >君* * * *you / monarch</item>
+        <item >味* * * *flavour</item>
+        <item >命* * * *fate / life</item>
+        <item >和* * * *harmony / Japanese</item>
+        <item >品* * * *article</item>
+        <item >員* * * *employee</item>
+        <item >商* * * *commerce</item>
+        <item >問* * * *question</item>
+        <item >坂* * * *slope</item>
+        <item >央* * * *center</item>
+        <item >始* * * *begin</item>
+        <item >委* * * *committee</item>
+        <item >守* * * *protect</item>
+        <item >安* * * *cheap / calm</item>
+        <item >定* * * *determine</item>
+        <item >実* * * *fruit / realization</item>
+        <item >客* * * *guest</item>
+        <item >宮* * * *Shinto shrine / prince</item>
+        <item >宿* * * *inn</item>
+        <item >寒* * * *cold</item>
+        <item >対* * * *opposite / against</item>
+        <item >局* * * *office</item>
+        <item >屋* * * *roof</item>
+        <item >岸* * * *shore</item>
+        <item >島* * * *island</item>
+        <item >州* * * *state / province</item>
+        <item >帳* * * *notebook</item>
+        <item >平* * * *flat</item>
+        <item >幸* * * *happiness</item>
+        <item >度* * * *degrees</item>
+        <item >庫* * * *warehouse</item>
+        <item >庭* * * *yard</item>
+        <item >式* * * *style / ceremony / numerical formula</item>
+        <item >役* * * *role</item>
+        <item >待* * * *wait</item>
+        <item >急* * * *hurry</item>
+        <item >息* * * *breath</item>
+        <item >悪* * * *bad</item>
+        <item >悲* * * *sad</item>
+        <item >想* * * *thought</item>
+        <item >意* * * *idea</item>
+        <item >感* * * *feel</item>
+        <item >所* * * *place</item>
+        <item >打* * * *hit</item>
+        <item >投* * * *throw</item>
+        <item >拾* * * *pick up</item>
+        <item >持* * * *hold</item>
+        <item >指* * * *finger / point</item>
+        <item >放* * * *release</item>
+        <item >整* * * *organise</item>
+        <item >旅* * * *trip</item>
+        <item >族* * * *tribe</item>
+        <item >昔* * * *long ago</item>
+        <item >昭* * * *shrine</item>
+        <item >暑* * * *hot</item>
+        <item >暗* * * *dark</item>
+        <item >曲* * * *melody / curve</item>
+        <item >有* * * *possess</item>
+        <item >服* * * *clothes</item>
+        <item >期* * * *period of time</item>
+        <item >板* * * *board</item>
+        <item >柱* * * *pillar</item>
+        <item >根* * * *root</item>
+        <item >植* * * *plant</item>
+        <item >業* * * *business</item>
+        <item >様* * * *appearance</item>
+        <item >横* * * *horizontal</item>
+        <item >橋* * * *bridge</item>
+        <item >次* * * *next</item>
+        <item >歯* * * *tooth</item>
+        <item >死* * * *death</item>
+        <item >氷* * * *ice</item>
+        <item >決* * * *decide</item>
+        <item >油* * * *oil</item>
+        <item >波* * * *wave</item>
+        <item >注* * * *pour</item>
+        <item >泳* * * *swim</item>
+        <item >洋* * * *ocean</item>
+        <item >流* * * *stream</item>
+        <item >消* * * *extinguish</item>
+        <item >深* * * *deep</item>
+        <item >温* * * *warm</item>
+        <item >港* * * *harbor</item>
+        <item >湖* * * *lake</item>
+        <item >湯* * * *hot water</item>
+        <item >漢* * * *Chinese</item>
+        <item >炭* * * *charcoal</item>
+        <item >物* * * *tangible thing</item>
+        <item >球* * * *sphere</item>
+        <item >由* * * *reason</item>
+        <item >申* * * *say</item>
+        <item >界* * * *world</item>
+        <item >畑* * * *farm</item>
+        <item >病* * * *sick</item>
+        <item >発* * * *departure</item>
+        <item >登* * * *climb</item>
+        <item >皮* * * *skin</item>
+        <item >皿* * * *dish</item>
+        <item >相* * * *mutual</item>
+        <item >県* * * *prefecture</item>
+        <item >真* * * *true</item>
+        <item >着* * * *wear / arrive</item>
+        <item >短* * * *short</item>
+        <item >研* * * *sharpen</item>
+        <item >礼* * * *manners</item>
+        <item >神* * * *deity</item>
+        <item >祭* * * *festival</item>
+        <item >福* * * *luck</item>
+        <item >秒* * * *second</item>
+        <item >究* * * *research</item>
+        <item >章* * * *chapter</item>
+        <item >童* * * *juvenile</item>
+        <item >笛* * * *flute</item>
+        <item >第* * * *ordinal</item>
+        <item >筆* * * *writing brush</item>
+        <item >等* * * *class</item>
+        <item >箱* * * *box</item>
+        <item >級* * * *rank</item>
+        <item >終* * * *end</item>
+        <item >緑* * * *green</item>
+        <item >練* * * *practice</item>
+        <item >羊* * * *sheep</item>
+        <item >美* * * *beauty</item>
+        <item >習* * * *learn</item>
+        <item >者* * * *someone</item>
+        <item >育* * * *raise</item>
+        <item >苦* * * *suffer / bitter</item>
+        <item >荷* * * *luggage</item>
+        <item >落* * * *fall</item>
+        <item >葉* * * *leaf</item>
+        <item >薬* * * *medicine</item>
+        <item >血* * * *blood</item>
+        <item >表* * * *express</item>
+        <item >詩* * * *poem</item>
+        <item >調* * * *tone / find</item>
+        <item >談* * * *discuss</item>
+        <item >豆* * * *bean</item>
+        <item >負* * * *lose</item>
+        <item >起* * * *awaken</item>
+        <item >路* * * *path</item>
+        <item >身* * * *body</item>
+        <item >転* * * *shift / fall down</item>
+        <item >軽* * * *lightweight</item>
+        <item >農* * * *agriculture</item>
+        <item >返* * * *return</item>
+        <item >追* * * *follow</item>
+        <item >送* * * *send</item>
+        <item >速* * * *fast</item>
+        <item >進* * * *progress</item>
+        <item >遊* * * *play</item>
+        <item >運* * * *carry</item>
+        <item >部* * * *part</item>
+        <item >都* * * *metropolis</item>
+        <item >配* * * *distribute</item>
+        <item >酒* * * *liquor</item>
+        <item >重* * * *heavy / gravity / pile</item>
+        <item >鉄* * * *iron</item>
+        <item >銀* * * *silver</item>
+        <item >開* * * *open</item>
+        <item >院* * * *institution</item>
+        <item >陽* * * *sun</item>
+        <item >階* * * *storey</item>
+        <item >集* * * *gather</item>
+        <item >面* * * *surface</item>
+        <item >題* * * *topic</item>
+        <item >飲* * * *drink</item>
+        <item >館* * * *public building</item>
+        <item >駅* * * *station</item>
+        <item >鼻* * * *nose</item>
+    </string-array>
+
+    <string-array name="kyoiku_kanji_fourth_grade">
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+    </string-array>
+
+    <string-array name="kyoiku_kanji_fifth_grade">
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+    </string-array>
+
+    <string-array name="kyoiku_kanji_sixth_grade">
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+    </string-array>
+
+    <string-array name="joyo_kanji_secondary_school">
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+        <item > * * * * </item>
+    </string-array>
+</resources>

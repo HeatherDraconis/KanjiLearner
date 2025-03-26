@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kanji Learner</string>
+    <string name="learn_button">Learn New Kanji</string>
+    <string name="revisit_button">Revisit Past Kanji</string>
+    <string name="next_button">Next</string>
+    <string name="kanji_text">漢字</string>
+    <string name="description_text">Loading…</string>
+    <string name="answer_text">Answer:</string>
+    <string name="result_text">Result</string>
+    <string name="score_text">20/20</string>
+
+    <string name="on">On\'yomi</string>
+    <string name="kun">Kun\'yomi</string>
+
+    <string name="positive">Well Done!</string>
+    <string name="negative">Oh Dear…</string>
+
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+
+    <string name="preference_file_days">days</string>
+</resources>

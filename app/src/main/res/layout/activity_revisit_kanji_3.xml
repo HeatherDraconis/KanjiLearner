@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context=".MainActivity"
+        android:id="@+id/coordinatorLayout">
+
+    <TextView
+            android:id="@+id/description_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/description_text"
+            android:textAlignment="center"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/button_2"/>
+
+    <Button
+            android:id="@+id/button_1"
+            android:text="@string/one"
+            android:textSize="50sp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/button_2"
+            app:layout_constraintTop_toBottomOf="@+id/description_text"
+            app:layout_constraintBottom_toBottomOf="parent"
+    />
+
+    <Button
+            android:id="@+id/button_2"
+            android:text="@string/two"
+            android:textSize="50sp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            app:layout_constraintStart_toEndOf="@id/button_1"
+            app:layout_constraintEnd_toStartOf="@id/button_3"
+            app:layout_constraintTop_toBottomOf="@+id/description_text"
+            app:layout_constraintBottom_toBottomOf="parent"
+    />
+
+    <Button
+            android:id="@+id/button_3"
+            android:text="@string/three"
+            android:textSize="50sp"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            app:layout_constraintStart_toEndOf="@id/button_2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/description_text"
+            app:layout_constraintBottom_toBottomOf="parent"
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
