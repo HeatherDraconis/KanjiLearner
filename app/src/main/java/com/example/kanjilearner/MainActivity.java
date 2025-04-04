@@ -27,11 +27,17 @@ public class MainActivity extends AppCompatActivity {
         joyoKanjiLength = sixthKyoikuKanjiLength + getResources().getStringArray(R.array.joyo_kanji_secondary_school).length;
         setDays();
         setKanjiArray();
-        homePage();
+        if (days == 0) {
+            learnNewKanji();
+        } else {
+            homePage();
+        }
     }
 
     private void homePage() {
         setContentView(R.layout.activity_main);
+
+        this.<Button>findViewById(R.id.set_button).setOnClickListener(view -> changeDays());
 
         this.<Button>findViewById(R.id.learn_button).setOnClickListener(view -> learnNewKanji());
 
@@ -43,10 +49,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void learnNewKanji() {
         setContentView(R.layout.activity_learn_kanji);
-        TextView textKanji = findViewById(R.id.kanji_text);
-        TextView textTitle = findViewById(R.id.title_text);
-        TextView textDescription = findViewById(R.id.description_text);
-        Button buttonNext = findViewById(R.id.next_button);
 
         String[] kanji;
         if (days < kanjiList.size()) {
@@ -55,7 +57,12 @@ public class MainActivity extends AppCompatActivity {
             kanji = kanjiList.get(new Random().nextInt(kanjiList.size())).split("[*]");
         }
 
-        textKanji.setText(kanji[0]);
+        this.<TextView>findViewById(R.id.kanji_text).setText(kanji[0]);
+
+        TextView textTitle = findViewById(R.id.title_text);
+        TextView textDescription = findViewById(R.id.description_text);
+        Button buttonNext = findViewById(R.id.next_button);
+
         textTitle.setText(kanji[4]);
         textDescription.setText(kanji[1]);
 
@@ -90,16 +97,13 @@ public class MainActivity extends AppCompatActivity {
 
     private void question1(String[][] revisitKanjiArray, int i) {
         setContentView(R.layout.activity_revisit_kanji_1);
-        TextView textKanji = findViewById(R.id.kanji_text);
-        EditText textAnswer = findViewById(R.id.answer_text);
-        Button buttonNext = findViewById(R.id.next_button);
 
-        textKanji.setText(revisitKanjiArray[i][0]);
+        this.<TextView>findViewById(R.id.kanji_text).setText(revisitKanjiArray[i][0]);
 
-        buttonNext.setOnClickListener(view -> {
+        this.<Button>findViewById(R.id.next_button).setOnClickListener(view -> {
             boolean isCorrect = false;
             for (String s: revisitKanjiArray[i][1].split("/")) {
-                if (s.trim().equals(textAnswer.getText().toString().toLowerCase().trim())) {
+                if (s.trim().equals(this.<EditText>findViewById(R.id.answer_text).getText().toString().toLowerCase().trim())) {
                     isCorrect = true;
                 }
             }
@@ -109,27 +113,29 @@ public class MainActivity extends AppCompatActivity {
 
     private void question2(String[][] revisitKanjiArray, int i) {
         setContentView(R.layout.activity_revisit_kanji_2);
-        TextView textKanji = findViewById(R.id.kanji_text);
-        Button buttonOne = findViewById(R.id.button_1);
-        Button buttonTwo = findViewById(R.id.button_2);
-        Button buttonThree = findViewById(R.id.button_3);
 
-        textKanji.setText(revisitKanjiArray[i][0]);
-        String answer = revisitKanjiArray[i][1].split("/")[0];
+        this.<TextView>findViewById(R.id.kanji_text).setText(revisitKanjiArray[i][0]);
+
+        String answer = revisitKanjiArray[i][1].split("/")[0].trim().replaceAll(" ", "\n");
 
         Random random = new Random();
 
         String alternate1;
         do {
-            alternate1 = kanjiList.get(random.nextInt(kanjiList.size())).split("[*]")[4].split("/")[0];
+            String[] split1 = kanjiList.get(random.nextInt(kanjiList.size())).split("[*]")[4].split("/");
+            alternate1 = split1[random.nextInt(split1.length)].trim().replaceAll(" ", "\n");
         } while (alternate1.equals(answer));
 
         String alternate2;
         do {
-            alternate2 = kanjiList.get(random.nextInt(kanjiList.size())).split("[*]")[4].split("/")[0];
+            String[] split2 = kanjiList.get(random.nextInt(kanjiList.size())).split("[*]")[4].split("/");
+            alternate2 = split2[random.nextInt(split2.length)].trim().replaceAll(" ", "\n");
         } while (alternate2.equals(alternate1) || alternate2.equals(answer));
 
         int button = random.nextInt(3);
+        Button buttonOne = findViewById(R.id.button_1);
+        Button buttonTwo = findViewById(R.id.button_2);
+        Button buttonThree = findViewById(R.id.button_3);
         switch (button) {
             case 0:
                 buttonOne.setText(answer);
@@ -162,12 +168,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void question3(String[][] revisitKanjiArray, int i) {
         setContentView(R.layout.activity_revisit_kanji_3);
-        TextView textDescription = findViewById(R.id.description_text);
-        Button buttonOne = findViewById(R.id.button_1);
-        Button buttonTwo = findViewById(R.id.button_2);
-        Button buttonThree = findViewById(R.id.button_3);
 
-        textDescription.setText(revisitKanjiArray[i][1]);
+        this.<TextView>findViewById(R.id.description_text).setText(revisitKanjiArray[i][1]);
+
         String answer = revisitKanjiArray[i][0];
 
         Random random = new Random();
@@ -183,6 +186,9 @@ public class MainActivity extends AppCompatActivity {
         } while (alternate2.equals(alternate1) || alternate2.equals(answer));
 
         int button = random.nextInt(3);
+        Button buttonOne = findViewById(R.id.button_1);
+        Button buttonTwo = findViewById(R.id.button_2);
+        Button buttonThree = findViewById(R.id.button_3);
         switch (button) {
             case 0:
                 buttonOne.setText(answer);
@@ -215,14 +221,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void showResult(boolean isCorrect, String[][] revisitKanjiArray, int i) {
         setContentView(R.layout.activity_result);
+
+        this.<TextView>findViewById(R.id.kanji_text).setText(revisitKanjiArray[i][0]);
+        this.<TextView>findViewById(R.id.description_text).setText(revisitKanjiArray[i][1]);
+
         TextView textResult1 = findViewById(R.id.result_text);
-        TextView textKanji = findViewById(R.id.kanji_text);
-        TextView textDescription = findViewById(R.id.description_text);
-        Button buttonNext1 = findViewById(R.id.next_button);
-
-        textKanji.setText(revisitKanjiArray[i][0]);
-        textDescription.setText(revisitKanjiArray[i][1]);
-
         if (isCorrect) {
             textResult1.setText(getResources().getString(R.string.positive));
             count++;
@@ -230,24 +233,20 @@ public class MainActivity extends AppCompatActivity {
             textResult1.setText(getResources().getString(R.string.negative));
         }
 
-        buttonNext1.setOnClickListener(view -> {
+        this.<Button>findViewById(R.id.next_button).setOnClickListener(view -> {
             if (i + 1 < revisitKanjiArray.length) {
                 revisitPastKanji(revisitKanjiArray, i + 1);
             } else {
                 setContentView(R.layout.activity_final_result);
-                TextView textScore = findViewById(R.id.score_text);
+                this.<TextView>findViewById(R.id.score_text).setText(String.format(Locale.UK,"%d/%d", count, revisitKanjiArray.length));
                 TextView textResult2 = findViewById(R.id.result_text);
-                Button buttonNext2 = findViewById(R.id.next_button);
-                textScore.setText(String.format(Locale.UK,"%d/%d", count, revisitKanjiArray.length));
-                textDescription.setText("");
-
                 if (count > 0) {
                     textResult2.setText(getResources().getString(R.string.positive));
                 } else {
                     textResult2.setText(getResources().getString(R.string.negative));
                 }
 
-                buttonNext2.setOnClickListener(view1 -> {
+                this.<Button>findViewById(R.id.next_button).setOnClickListener(view1 -> {
                     if (days >= kanjiList.size()) {
                         increaseDays();
                     }
@@ -344,6 +343,21 @@ public class MainActivity extends AppCompatActivity {
         if (days >= kanjiList.size() && kanjiList.size() < joyoKanjiLength) {
             kanjiList.addAll(Arrays.asList(getResources().getStringArray(R.array.joyo_kanji_secondary_school)));
         }
+    }
+
+    private void changeDays() {
+        setContentView(R.layout.activity_set_days);
+        this.<TextView>findViewById(R.id.current_text).setText(String.format(Locale.UK,"%s %d", getString(R.string.current), days));
+        this.<Button>findViewById(R.id.set_button).setOnClickListener(view -> {
+            String input = this.<EditText>findViewById(R.id.number_text).getText().toString();
+            if (!input.isEmpty()) {
+                getSharedPreferences(getString(R.string.preference_file_days), MODE_PRIVATE).edit().putInt(getString(R.string.preference_file_days), Integer.parseInt(input)).apply();
+                days = Integer.parseInt(input);
+                setKanjiArray();
+            }
+            homePage();
+        });
+
     }
 
     private void increaseDays() {

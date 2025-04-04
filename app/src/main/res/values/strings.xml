@@ -20,4 +20,7 @@
     <string name="three">three</string>
 
     <string name="preference_file_days">days</string>
+    <string name="number">Number of Days</string>
+    <string name="set_days">Set\nDays</string>
+    <string name="current">Current Number of Days:</string>
 </resources>

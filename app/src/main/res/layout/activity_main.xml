@@ -10,6 +10,16 @@
         android:id="@+id/coordinatorLayout">
 
     <Button
+            android:id="@+id/set_button"
+            android:text="@string/set_days"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+    />
+
+    <Button
             android:id="@+id/revisit_button"
             android:text="@string/revisit_button"
             android:layout_width="300dp"
